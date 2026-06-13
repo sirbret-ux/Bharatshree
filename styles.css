@@ -146,7 +146,7 @@ p, h1, h2, h3 {
 }
 
 .hero-media {
-  background: url("/legal-tech-hero.png") center right / cover no-repeat;
+  background: url("assets/legal-tech-hero.png") center right / cover no-repeat;
   transform: scale(1.02);
 }
 
