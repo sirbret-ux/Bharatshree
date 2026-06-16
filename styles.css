@@ -233,6 +233,7 @@ h2 {
   font-size: clamp(2rem, 4vw, 3.4rem);
   line-height: 1.12;
   letter-spacing: 0;
+  width: 150% !important;
 }
 
 .lead-stack p,
